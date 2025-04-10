@@ -1,0 +1,2 @@
+C:/Mobi_v3/UI_TrangSuc_v2/android/app/.cxx/Debug/1f11184w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Mobi_v3/UI_TrangSuc_v2/android/app/.cxx/Debug/1f11184w/arm64-v8a/CMakeFiles/rebuild_cache.dir
