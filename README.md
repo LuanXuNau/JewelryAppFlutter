@@ -37,9 +37,9 @@ Originally built as a university team project, this version has been independent
 | Name                | Role                                         |
 |---------------------|----------------------------------------------|
 | **Huỳnh Duy Luân**  | Lead Flutter Developer, UI/UX Designer *(main solo author)* |
-| **[Tên bạn của bạn]** | Backend Developer – API with C# (.NET Core) |
+| **Nguyễn Trần Nguyên** | Backend Developer – API with C# (.NET Core) |
 
-> This version is a **solo-refactored release** by Luân with added features, animations, UI redesign, and Git reset for portfolio purposes. The original API was developed by [Tên bạn của bạn].
+> This version is a **solo-refactored release** by Luân with added features, animations, UI redesign, and Git reset for portfolio purposes. The original API was developed by Nguyễn Trần Nguyên.
 
 ---
 
